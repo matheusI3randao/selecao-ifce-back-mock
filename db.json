@@ -1,0 +1,32 @@
+{
+  "pessoas-mock": [
+    {
+      "id": 1,
+      "descricao": "JAVA"
+    },
+    {
+      "id": 2,
+      "descricao": "ANGULAR"
+    },
+    {
+      "id": 3,
+      "descricao": "REACT"
+    },
+    {
+      "id": 4,
+      "descricao": "NODE"
+    },
+    {
+      "id": 5,
+      "descricao": "POSTGRES"
+    },
+    {
+      "id": 6,
+      "descricao": "HIBERNATE"
+    },
+    {
+      "id": 7,
+      "descricao": "SPRING BOOT"
+    }
+  ]
+}
